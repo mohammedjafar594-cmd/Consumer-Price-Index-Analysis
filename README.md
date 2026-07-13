@@ -37,6 +37,9 @@ The dataset contains Consumer Price Index (CPI) values across different categori
 - Highlighted long-term inflation trends using visual dashboards.
 - Improved data interpretation through interactive Excel reports.
 
+## Dashboard Preview
+<img width="959" height="424" alt="image" src="https://github.com/user-attachments/assets/4258e66e-6e5a-4fdf-8d45-56eac0089c36" />
+
 ## Author
 
 Mohammad Jafar
