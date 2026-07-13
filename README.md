@@ -18,7 +18,7 @@ This project analyzes the Consumer Price Index (CPI) using Microsoft Excel to un
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Formulas (SUMIFS, IF, VLOOKUP, INDEX-MATCH, etc.)
+- Formulas (SUMIFS, Averageifs, VLOOKUP, INDEX-MATCH, etc.)
 
 ## Dataset
 
