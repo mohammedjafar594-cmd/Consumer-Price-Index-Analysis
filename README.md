@@ -1,45 +1,36 @@
-# Consumer Price Index (CPI) Analysis
+# India CPI Inflation Case Study
 
-## Project Overview
+## Overview
 
-This project analyzes the Consumer Price Index (CPI) using Microsoft Excel to understand inflation trends,across different categories, and overall economic performance. The analysis includes data cleaning, calculations, charts, and an interactive dashboard.
+This project analyzes Consumer Price Index (CPI) data in India to understand inflation trends across different categories over time.
 
-## Objectives
+The CPI measures changes in the general price level of goods and services consumed by households. The analysis covers categories such as food and beverages, clothing, housing, transportation, medical care, fuel and light, and recreation.
 
-- Analyze CPI trends over time
-- Compare inflation across categories
-- Identify periods of high and low inflation
-- Create an interactive Excel dashboard
-- Generate business insights from CPI data
+For this case study, equal weights are considered across the categories to compare their CPI trends and understand how prices have changed over the selected period.
+
+## Objective
+
+The main objective of this analysis is to:
+
+- Analyze CPI trends over different years
+- Compare CPI across different categories
+- Identify categories with higher CPI values
+- Understand year-wise changes in CPI
+- Present the findings using Excel charts and Pivot Tables
 
 ## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
-- Slicers
-- Formulas (SUMIFS, Averageifs, VLOOKUP, INDEX-MATCH, etc.)
+- Excel Formulas
+- Charts & Data Visualization
 
-## Dataset
+## Key Findings
 
-The dataset contains Consumer Price Index (CPI) values across different categories and time periods used for inflation analysis.
+- Food recorded the highest CPI among the categories analyzed.
+- 2019 recorded the highest CPI value among the years in the dataset.
+- CPI values varied across categories, showing different price movement patterns over time.
 
-## Dashboard Features
+## Conclusion
 
-- Overall CPI Trend
-- Category-wise CPI Comparison
-- Monthly/Yearly Inflation Trend
-
-## Key Insights
-
-- Identified periods with the highest and lowest CPI growth.
-- Compared inflation across multiple product categories.
-- Highlighted long-term inflation trends using visual dashboards.
-- Improved data interpretation through interactive Excel reports.
-
-## Dashboard Preview
-<img width="959" height="424" alt="image" src="https://github.com/user-attachments/assets/4258e66e-6e5a-4fdf-8d45-56eac0089c36" />
-
-## Author
-
-Mohammad Jafar
+This case study helped me analyze inflation data using Excel and understand how CPI can be used to track changes in consumer prices across different categories and years.
